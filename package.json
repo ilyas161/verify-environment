@@ -1,0 +1,16 @@
+{
+  "name": "verify-environment",
+  "version": "1.0.0",
+  "description": "<h2>Version 1.0</h2>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ilyas161/cli.git/verify-environment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {}
+}
