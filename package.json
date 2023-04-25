@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:ilyas161/cli.git/verify-environment.git"
+    "url": "git@github.com:ilyas161/verify-environment.git"
   },
   "author": "",
   "license": "ISC",
